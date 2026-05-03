@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files
+data/*.csv
+data/*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environnement virtuel
+venv/
+env/
+
+# Variables d'environnement
+.env
